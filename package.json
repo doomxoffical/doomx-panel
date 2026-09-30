@@ -1,0 +1,12 @@
+{
+  "name": "doomx-key-panel",
+  "version": "1.0.0",
+  "description": "DOOM X Key Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
